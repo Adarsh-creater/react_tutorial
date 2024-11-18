@@ -1,0 +1,12 @@
+ul{
+    display: flex;
+    background-color: beige;
+
+}
+li{
+    list-style: none;
+    padding: 0 12px;
+}
+.active-link{
+    background-color: aqua;
+}
